@@ -24,7 +24,6 @@
 using namespace std;
 
 int t,d,m,tt;
-bool dah = false;
 vi r;
 
 int main() {_
